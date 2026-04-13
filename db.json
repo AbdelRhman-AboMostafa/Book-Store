@@ -1,0 +1,626 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "Brandon Sanderson",
+      "bio": "Bio of Brandon Sanderson, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1005/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Agatha Christie",
+      "bio": "Bio of Agatha Christie, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1006/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "J.K. Rowling",
+      "bio": "Bio of J.K. Rowling, a famous author known for many work.",
+      "avatarUrl": "https://picsum.photos/id/1008/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "George R.R. Martin",
+      "bio": "Bio of George R.R. Martin, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1010/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Stephen King",
+      "bio": "Bio of Stephen King, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1011/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Isaac Asimov",
+      "bio": "Bio of Isaac Asimov, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1012/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "J.R.R. Tolkien",
+      "bio": "Bio of J.R.R. Tolkien, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1015/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Neil Gaiman",
+      "bio": "Bio of Neil Gaiman, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1016/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Andy Weir",
+      "bio": "Bio of Andy Weir, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1018/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Haruki Murakami",
+      "bio": "Bio of Haruki Murakami, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1020/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Arthur Conan Doyle",
+      "bio": "Bio of Arthur Conan Doyle, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1024/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Terry Pratchett",
+      "bio": "Bio of Terry Pratchett, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1025/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Suzanne Collins",
+      "bio": "Bio of Suzanne Collins, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1027/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Dan Brown",
+      "bio": "Bio of Dan Brown, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1030/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "name": "Margaret Atwood",
+      "bio": "Bio of Margaret Atwood, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1031/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "16",
+      "name": "Philip K. Dick",
+      "bio": "Bio of Philip K. Dick, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1032/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "17",
+      "name": "Ray Bradbury",
+      "bio": "Bio of Ray Bradbury, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1033/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "18",
+      "name": "H.G. Wells",
+      "bio": "Bio of H.G. Wells, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1035/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "19",
+      "name": "Ernest Hemingway",
+      "bio": "Bio of Ernest Hemingway, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1037/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "20",
+      "name": "Mark Twain",
+      "bio": "Bio of Mark Twain, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1038/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "21",
+      "name": "Leo Tolstoy",
+      "bio": "Bio of Leo Tolstoy, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1039/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "22",
+      "name": "Jane Austen",
+      "bio": "Bio of Jane Austen, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1040/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "23",
+      "name": "Charles Dickens",
+      "bio": "Bio of Charles Dickens, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1041/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "24",
+      "name": "Oscar Wilde",
+      "bio": "Bio of Oscar Wilde, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1042/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "25",
+      "name": "F. Scott Fitzgerald",
+      "bio": "Bio of F. Scott Fitzgerald, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1043/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "26",
+      "name": "Virginia Woolf",
+      "bio": "Bio of Virginia Woolf, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1044/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "27",
+      "name": "Gabriel García Márquez",
+      "bio": "Bio of Gabriel García Márquez, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1045/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "28",
+      "name": "Franz Kafka",
+      "bio": "Bio of Franz Kafka, a famous author known for many works.",
+      "avatarUrl": "https://picsum.photos/id/1047/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "29",
+      "name": "Harper Lee",
+      "bio": "Bio of Harper Lee, a famous author known for many .",
+      "avatarUrl": "https://picsum.photos/id/1048/80/80",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Final Empire",
+      "authorId": 10,
+      "year": 1996,
+      "tags": [
+        "romance",
+        "thriller"
+      ],
+      "coverUrl": "https://picsum.photos/id/237/200/300",
+      "description": "Description of the book 'The Final Empire', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "The Well of Ascension",
+      "authorId": 28,
+      "year": 1965,
+      "tags": [
+        "sci-fi",
+        "romance",
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/238/200/300",
+      "description": "Description of the book 'The Well of Ascension', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "The Hero of Ages",
+      "authorId": 5,
+      "year": 1995,
+      "tags": [
+        "sci-fi",
+        "thriller",
+        "romance"
+      ],
+      "coverUrl": "https://picsum.photos/id/239/200/300",
+      "description": "Description of the book 'The Hero of Ages', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Murder on the Orient Express",
+      "authorId": 30,
+      "year": 2004,
+      "tags": [
+        "classic",
+        "thriller",
+        "space"
+      ],
+      "coverUrl": "https://picsum.photos/id/240/200/300",
+      "description": "Description of the book 'Murder on the Orient Express', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "The Mysterious Affair at Styles",
+      "authorId": 12,
+      "year": 1923,
+      "tags": [
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/241/200/300",
+      "description": "Description of the book 'The Mysterious Affair at Styles', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "The ABC Murders",
+      "authorId": 29,
+      "year": 1933,
+      "tags": [
+        "mystery",
+        "thriller",
+        "classic"
+      ],
+      "coverUrl": "https://picsum.photos/id/242/200/300",
+      "description": "Description of the book 'The ABC Murders', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Harry Potter and the Sorcerer's Sto",
+      "authorId": 26,
+      "year": 2004,
+      "tags": [
+        "space"
+      ],
+      "coverUrl": "https://picsum.photos/id/243/200/300",
+      "description": "Description of the book 'Harry Potter and the Sorcerer's Stone', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authorId": 9,
+      "year": 1971,
+      "tags": [
+        "romance",
+        "sci-fi"
+      ],
+      "coverUrl": "https://picsum.photos/id/244/200/300",
+      "description": "Description of the book 'Harry Potter and the Chamber of Secrets', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "authorId": 13,
+      "year": 2018,
+      "tags": [
+        "fantasy",
+        "thriller",
+        "sci-fi"
+      ],
+      "coverUrl": "https://picsum.photos/id/245/200/300",
+      "description": "Description of the book 'Harry Potter and the Prisoner of Azkaban', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "A Game of Thrones",
+      "authorId": 7,
+      "year": 1981,
+      "tags": [
+        "space",
+        "sci-fi"
+      ],
+      "coverUrl": "https://picsum.photos/id/246/200/300",
+      "description": "Description of the book 'A Game of Thrones', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "A Clash of Kings",
+      "authorId": 9,
+      "year": 1961,
+      "tags": [
+        "mystery",
+        "fantasy",
+        "classic"
+      ],
+      "coverUrl": "https://picsum.photos/id/247/200/300",
+      "description": "Description of the book 'A Clash of Kings', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "A Storm of Swords",
+      "authorId": 16,
+      "year": 1985,
+      "tags": [
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/248/200/300",
+      "description": "Description of the book 'A Storm of Swords', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "The Shining",
+      "authorId": 8,
+      "year": 2017,
+      "tags": [
+        "classic",
+        "mystery",
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/249/200/300",
+      "description": "Description of the book 'The Shining', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "It",
+      "authorId": 9,
+      "year": 1923,
+      "tags": [
+        "mystery",
+        "thriller",
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/250/200/300",
+      "description": "Description of the book 'It', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Misery",
+      "authorId": 16,
+      "year": 1945,
+      "tags": [
+        "sci-fi",
+        "classic",
+        "mystery"
+      ],
+      "coverUrl": "https://picsum.photos/id/251/200/300",
+      "description": "Description of the book 'Misery', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "Foundation",
+      "authorId": 20,
+      "year": 1929,
+      "tags": [
+        "sci-fi",
+        "space",
+        "classic"
+      ],
+      "coverUrl": "https://picsum.photos/id/252/200/300",
+      "description": "Description of the book 'Foundation', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "I, Robot",
+      "authorId": 1,
+      "year": 2023,
+      "tags": [
+        "mystery",
+        "space"
+      ],
+      "coverUrl": "https://picsum.photos/id/253/200/300",
+      "description": "Description of the book 'I, Robot', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "The Hobbit",
+      "authorId": 23,
+      "year": 1903,
+      "tags": [
+        "mystery",
+        "sci-fi"
+      ],
+      "coverUrl": "https://picsum.photos/id/254/200/300",
+      "description": "Description of the book 'The Hobbit', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "The Lord of the Rings",
+      "authorId": 25,
+      "year": 1946,
+      "tags": [
+        "romance",
+        "fantasy"
+      ],
+      "coverUrl": "https://picsum.photos/id/255/200/300",
+      "description": "Description of the book 'The Lord of the Rings', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "American Gods",
+      "authorId": 20,
+      "year": 1989,
+      "tags": [
+        "thriller",
+        "fantasy",
+        "romance"
+      ],
+      "coverUrl": "https://picsum.photos/id/256/200/300",
+      "description": "Description of the book 'American Gods', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "21",
+      "title": "Project Hail Mary",
+      "authorId": 5,
+      "year": 1914,
+      "tags": [
+        "romance",
+        "space",
+        "thriller"
+      ],
+      "coverUrl": "https://picsum.photos/id/257/200/300",
+      "description": "Description of the book 'Project Hail Mary', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "22",
+      "title": "Norwegian Wood",
+      "authorId": 21,
+      "year": 1923,
+      "tags": [
+        "romance"
+      ],
+      "coverUrl": "https://picsum.photos/id/258/200/300",
+      "description": "Description of the book 'Norwegian Wood', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "23",
+      "title": "The Hound of the Baskervilles",
+      "authorId": 10,
+      "year": 1951,
+      "tags": [
+        "fantasy",
+        "sci-fi",
+        "thriller"
+      ],
+      "coverUrl": "https://picsum.photos/id/259/200/300",
+      "description": "Description of the book 'The Hound of the Baskervilles', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "24",
+      "title": "Good Omens",
+      "authorId": 28,
+      "year": 1973,
+      "tags": [
+        "mystery"
+      ],
+      "coverUrl": "https://picsum.photos/id/260/200/300",
+      "description": "Description of the book 'Good Omens', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "25",
+      "title": "The Colour of Magic",
+      "authorId": 11,
+      "year": 2020,
+      "tags": [
+        "thriller",
+        "romance",
+        "space"
+      ],
+      "coverUrl": "https://picsum.photos/id/261/200/300",
+      "description": "Description of the book 'The Colour of Magic', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "26",
+      "title": "The Hunger Games",
+      "authorId": 4,
+      "year": 1970,
+      "tags": [
+        "mystery",
+        "romance",
+        "classic"
+      ],
+      "coverUrl": "https://picsum.photos/id/262/200/300",
+      "description": "Description of the book 'The Hunger Games', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "28",
+      "title": "Mockingjay",
+      "authorId": 18,
+      "year": 1968,
+      "tags": [
+        "fantasy",
+        "space"
+      ],
+      "coverUrl": "https://picsum.photos/id/264/200/300",
+      "description": "Description of the book 'Mockingjay', an engaging story worth reading.",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    }
+  ]
+}
