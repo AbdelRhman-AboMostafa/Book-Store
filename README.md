@@ -42,6 +42,12 @@ Install dependencies:
 npm install
 ```
 
+Run JSON file:
+
+```bash
+npx json-server db.json
+```
+
 Run the project locally:
 
 ```bash
